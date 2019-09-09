@@ -1,2 +1,2 @@
-# Test_git
-This is for testing git.
+Aerial Cactus Challenge 
+link to the Challenge: https://www.kaggle.com/c/aerial-cactus-identification
